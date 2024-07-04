@@ -23,8 +23,8 @@ const Footer = (props) => {
                     <BsLinkedin />
                 </a>
                 </div>
-            </div>
-            <p className={`flex justify-center ${props.iconColor}`}>Deepesh Bhardwaj © 2023</p>
+            </div><br/>
+            <p className={`flex justify-center ${props.iconColor}`}>Deepesh Bhardwaj © 2024</p>
 
         </div>
     )
