@@ -17,13 +17,9 @@ function About(props) {
         <h1 className={`${headingStyles} + ${props.titleColor}`}>About</h1>
 
         <p className={`${paragraphStyles} + ${props.paragraphStyle}`}>
-          I'm Deepesh Bhardwaj, a CSE B.Tech student at "Lakshmi Narain College
-          of Technology, Bhopal". As a coding enthusiast, I'm passionate about
-          programming and love to code in C++ and Python.
-          <br />
-          I'm a Full stack Web Developer, Currently improving my skills in
-          Competitive Programming and exploring the fascinating world of Machine
-          Learning.
+          As a Full Stack Developer ,my experience spans across collaborative projects and individual contributions. With a focus on MERN & DSA, I've developed a strong foundation in both front-end and back-end technologies.
+<br/>
+Presently pursuing my BTech at LNCT, I am dedicated to expanding my expertise in Computer Science. My academic journey enhances my practical skills, and I am committed to contributing meaningfully to the tech community while I eagerly anticipate my graduation in June 2025.
         </p>
       </div>
     </div>
