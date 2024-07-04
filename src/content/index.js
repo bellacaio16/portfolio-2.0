@@ -9,6 +9,7 @@ import newsletter from '../assets/newsletter.png';
 // import bangerGIF from '../assets/bangeralert.gif'
 import netflix from '../assets/netflix.jpeg'
 import flipkart from '../assets/flipkart.png'
+import libraryhub from '../assets/libraryhub.png'
 import medimate from '../assets/medimate.png'
 // import CollectURL from '../assets/CollectURL.gif'
 const content = {
@@ -66,10 +67,19 @@ const content = {
         data: [
             {
                 //use this desc size as template no longer
+                title: 'LibraryHub: Online eBook Platform',
+                img: `${libraryhub}`,
+                git: 'https://github.com/bellacaio16/LibraryHub',
+                live: 'https://libraryhub16.netlify.app/',
+                desc: "LibraryHub: An online platform where readers can browse, purchase, and download over 100+ books. ",
+                tech: ["MongoDB","Redux", "Material UI", "Axios", "Node"," MongoDB", "TailwindCSS", "ReactJs", 'JWT', 'Axios'],
+            },
+            {
+                //use this desc size as template no longer
                 title: 'Medimate: medication reminder',
                 img: `${medimate}`,
-                git: 'https://github.com/deepesh16b/flipkart-clone',
-                live: 'https://flipkart3.netlify.app/',
+                git: 'https://github.com/bellacaio16/medimate-next.js',
+                live: 'https://medimate-rho.vercel.app/',
                 desc: "Medimate: medication reminder website is developed using NextJs 14, ReactJS, Next auth. Mongodb is implemented to manage user’s data.Tailwind CSS is used which contains predefined customisable css classes. ",
                 tech: ["MongoDB", "NextJs", "TailwindCSS", "ReactJs", 'NextAuth','JWT', 'Axios'],
             },
@@ -77,8 +87,8 @@ const content = {
                 //use this desc size as template no longer
                 title: 'Flipkart Clone',
                 img: `${flipkart}`,
-                git: 'https://github.com/deepesh16b/flipkart-clone',
-                live: 'https://flipkart3.netlify.app/',
+                git: 'https://github.com/bellacaio16/flipkart-clone',
+                live: 'https://ecommerce16.netlify.app/',
                 desc: "Flipkart clone is developed using NodeJs, ExpressJs, ReactJS, Redux. Mongodb is implemented to manage user’s data.Material UI Framework for React is used which contains predefined customisable components. ",
                 tech: ["MongoDB", "ExpressJs", "NodeJs", "ReactJs", 'Redux','Material UI Framework', 'Axios'],
             },
@@ -86,7 +96,7 @@ const content = {
                 //use this desc size as template no longer
                 title: 'Netflix Clone',
                 img: `${netflix}`,
-                git: 'https://github.com/deepesh16b/Netflix-Clone',
+                git: 'https://github.com/bellacaio16/Netflix-Clone',
                 live: 'https://netflix-29a21.web.app/',
                 desc: "Netflix clone is developed using ReactJS, Webhooks, Redux & Google Auth. Firestore is implemented to manage user’s data.Themoviedb API is  utilized to retrieve information on movies",
                 tech: ["React", 'Redux', 'YouTube Data Api' , 'TMDB Api',  'Firebase', 'FireStore', 'Axios'],
@@ -95,7 +105,7 @@ const content = {
                 //use this desc size as template no longer
                 title: 'Blog Website',
                 img: `${blog}`,
-                git: 'https://github.com/deepesh16b/Blog-WebApp',
+                git: 'https://github.com/bellacaio16/Blog-WebApp',
                 live: 'https://blogwebapp-tslk.onrender.com/',
                 desc: "Blog website for users to write, view, and delete blogs. Developed using HTML, CSS, Bootstrap, NodeJS, ExpressJS, and MongoDB. ",
                 tech: ['HTML', 'Express', "Bootstrap", "Node.js", 'MongoDb', 'CSS'],
@@ -103,7 +113,7 @@ const content = {
             {
                 title: 'Todo List ',
                 img: `${todo}`,
-                git: 'https://github.com/deepesh16b/Todo-List-WebApp',
+                git: 'https://github.com/bellacaio16',
                 live: 'https://todolistwebapp.onrender.com/',
                 desc: "A Todo list website where users can add and delete their tasks. Built using HTML, CSS, JavaScript, NodeJS, Express, and MongoDB. Users can create their different to-do list pages by adding something after the website's URL",
                 tech: ["JavaScript ", 'Bootstrap', 'CSS', 'Express', 'MongoDB', 'NodeJS'],
@@ -111,7 +121,7 @@ const content = {
             {
                 title: 'Weather App',
                 img: `${weather}`,
-                git: 'https://github.com/deepesh16b/weather-react-app',
+                git: 'https://github.com/bellacaio16',
                 live: 'https://weather58.netlify.app/',
                 desc: "A Weather web-application that can tell the weather of any city. Developed using HTML, CSS, JS, ReactJS, and openWeather-API.",
                 tech: ["JavaScript", "ReactJS", 'CSS', 'Bootstrap', "openWeather-API"],
@@ -120,7 +130,7 @@ const content = {
             {
                 title: 'Newsletter Website',
                 img: `${newsletter}`,
-                git: 'https://github.com/deepesh16b/newsletter-nodejs-render',
+                git: 'https://github.com/bellacaio16',
                 live: 'https://newsletter-nodejs.onrender.com/',
                 desc: "A Newsletter Website where user can enter his name & email-id and then he gets subscribed to our Newsletter website. It is developed using HTML, CSS, JS, NodeJs, MongoDb, Mailchimp-API",
                 tech: ["JavaScript", "HTML", 'CSS', "NodeJs", "MongoDb",],
