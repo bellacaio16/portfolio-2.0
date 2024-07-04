@@ -167,7 +167,12 @@ const content = {
                 "JavaScript",
                 "Express",
                 "C++",
-                "Python"
+                "Python", "C", "Javascript",
+"Next.Js","FireBase", "RestAPIs", "NoSql","Tailwind CSS", "Postman"
+,"Computer Networking"
+,"Operating System", "OOPS"
+,"Cloud Computing"
+
 
             ]
             ,
