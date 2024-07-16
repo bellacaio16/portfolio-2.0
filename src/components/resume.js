@@ -2,7 +2,7 @@ import React from "react";
 import { useState } from "react";
 import content from '../content';
 import Button from "./button";
-const pdfResume = 'https://drive.google.com/drive/folders/1uVFlexXS6pjjmCStFZU7kI4LQ81j2OYj?usp=sharing';
+const pdfResume = 'https://tinyurl.com/4zrvky8r';
 
 function Resume(props) {
 
