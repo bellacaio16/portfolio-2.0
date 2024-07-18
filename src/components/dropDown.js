@@ -29,7 +29,7 @@ const DropDown = (props) => {
 
                 }} />
 
-                <div id="myDropdown" className="origin-top-right  absolute right-0 mt-2 w-56 rounded-md shadow-lg bg-white text-black ring-1 ring-black ring-opacity-5 focus:outline-none hidden" role="menu" aria-orientation="vertical" aria-labelledby="menu-button" tabindex="-1" onClick={closeMenu}>
+                <div id="myDropdown" className="origin-top-right z-10 absolute right-0 mt-2 w-56 rounded-md shadow-lg bg-white text-black ring-1 ring-black ring-opacity-5 focus:outline-none hidden" role="menu" aria-orientation="vertical" aria-labelledby="menu-button" tabindex="-1" onClick={closeMenu}>
                     <div className="py-1 text-xl"   >
 
 
